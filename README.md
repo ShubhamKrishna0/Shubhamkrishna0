@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Shubhamkrishna0
 
 ### 💻 About Me
-🚀 Second-year CSE student  
+🚀 Third-year CSE student  
 🌐 Backend enthusiast  
 🛠️ Skilled in Flutter, Dart, Node.js, Express, MongoDB, Firebase, C++, and Java  
 
