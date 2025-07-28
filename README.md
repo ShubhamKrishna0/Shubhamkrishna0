@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shubhamkrishna0
+# 👋 Hi, I’m @Shubhamkrishna
 
 ### 💻 About Me
 🚀 Third-year CSE student  
