@@ -34,13 +34,7 @@
 
 # 🛠️ Tech Stack (3D Rotating Skill Icons)
 
-<p align="center">
-  <img src="https://i.imgur.com/s1Jq7oT.gif" width="110" />
-  <img src="https://i.imgur.com/q2dCkBt.gif" width="110" />
-  <img src="https://i.imgur.com/MzC4PpQ.gif" width="110" />
-  <img src="https://i.imgur.com/dLWZpRl.gif" width="110" />
-  <img src="https://i.imgur.com/C1tnVbS.gif" width="110" />
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,js,ts" /><br>
