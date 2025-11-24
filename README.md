@@ -1,8 +1,4 @@
-<!-- =======================
-     Shubham Krishna — All-in-One Animated README
-     Paste this entire single block into README.md
-     ======================= -->
-<!-- ANIMATED HEADER -->
+
 
 
 <h1 align="center">👋 Hey, I'm <strong>Shubham Krishna</strong></h1>
