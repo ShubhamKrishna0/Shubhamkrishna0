@@ -1,94 +1,114 @@
-<!-- PROFILE BADGES -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKrishna0&show_icons=true&theme=dracula" alt="Shubham's GitHub Stats" />
+  <img width="100%" src="https://i.ibb.co/Hd4dMhr/Blue-Gradient-Tech-Linked-In-Banner.png" alt="Banner" />
+</p>
 
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKrishna0&layout=compact&theme=dracula" alt="Top Languages" />
+<!-- TITLE -->
+<h1 align="center">🔥 Shubham Krishna — Full Stack Developer | CS Undergrad 👨‍💻</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Expert-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ShubhamKrishna0&style=flat-square&color=yellow" />
 </p>
 
 ---
 
-# Hi there 👋, I’m **Shubham Krishna**  
-### Third-year Computer Science & Engineering Student  
-📍 Bhubaneswar, Odisha, India
+# 👋 Hi, I’m **Shubham Krishna**
+### 🧑‍🎓 Third-year CSE Student  
+📍 **Bhubaneswar, Odisha, India**
+
+I’m a passionate developer who loves crafting **modern UI**, building **scalable systems**, and solving **real-world engineering problems**.
 
 ---
 
-## 🔧 Skills & Technologies
+# ⚡ Tech Stack (2025 Edition)
 
-### Frontend  
-- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Vue.js (or whatever you prefer)  
-- **State Management:** Redux / MobX / Vuex  
-- **UI / Styling:** Tailwind CSS, Bootstrap, Sass / Less  
-- **Build tools / Bundlers:** Webpack, Parcel, Vite  
-- **Others:** Responsive / Mobile-first design, Cross-browser compatibility, Accessibility (a11y), Performance optimization
+## 🎨 **Frontend**
+- **Languages:** HTML5, CSS3, JS (ES2023), TypeScript  
+- **Frameworks:** React.js, Next.js, Vue.js  
+- **Styling:** TailwindCSS, ShadCN UI, Bootstrap, Sass  
+- **State Management:** Redux Toolkit, Zustand, MobX  
+- **Tools:** Vite, Webpack, PNPM, Turborepo  
+- **Other:** PWAs, SEO, Web Accessibility, Framer Motion
 
-### Backend & Others  
-- Node.js, Express.js  
-- Dart, Flutter  
-- MongoDB, Firebase  
-- C++ & Java  
-- REST APIs, Authentication, Microservices (in progress)
+## 🔥 **Backend**
+- **Node.js**, **Express.js**, **NestJS**  
+- **Go (Golang)**  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+- **ORMs:** Prisma, Mongoose  
+- **Caching / Queues:** Redis, RabbitMQ  
+- **Architectures:** REST APIs, Microservices, MVC, Clean Architecture  
 
-### Tools & Platforms  
-- Git & GitHub  
-- VSCode / IntelliJ / Android Studio  
-- Docker (if you use it)  
-- Cloud: AWS / Azure / Google Cloud (or what you are learning)  
+## 📱 **Mobile Development**
+- **Flutter**, **Dart**  
+- **Jetpack Compose (Kotlin)** (learning)
 
----
-
-## 🌱 Currently Learning
-
-- Full-stack development with modern frontend + backend  
-- Distributed systems & microservices  
-- Cloud computing & deployment  
-- Advanced frontend: animations, SEO, progressive web apps
+## 🛠️ **DevOps & Tools**
+- Docker, Kubernetes (basics)  
+- Git & GitHub, GitHub Actions  
+- Cloud: AWS (EC2, S3, Lambda), Google Cloud, Firebase  
+- CI/CD pipelines  
+- Postman / Thunder Client  
 
 ---
 
-## 🏆 Highlights & Achievements
-
-- 🌟 Built **Ecomly_Backend**: a complete e-commerce backend using Node.js + MongoDB  
-- 🍽️ Developed **Foodly**: mobile + web app (Flutter & backend)  
-- 🔐 Working on secure authentication, best practices & architecture  
-- 🧠 Love solving algorithmic challenges & competitive programming  
-
----
-
-## 🔗 My Projects
-
-Here are a few of my public repositories:
-
-| Repository | Description | Tech Used |
-|---|---|---|
-| **foodly_flutter_backend** | Backend for the Foodly app | Node.js, MongoDB, Express |
-| **foodly_frontend** | Frontend & UI for the Foodly app | Flutter, Dart |
-| **Ecomly_Backend** | Complete ecommerce backend & API | Node.js, Express, MongoDB |
-| **Authentication_page** | Demo authentication page | C++ or HTML/CSS/JS (if it is frontend) |
-
-(Check out more in my [GitHub repositories](https://github.com/ShubhamKrishna0?tab=repositories))
+# 🌱 Currently Learning
+- Distributed systems  
+- Cloud-native architectures  
+- Kubernetes & container orchestration  
+- Advanced animations + performance optimizations  
+- Large-scale backend architecture  
 
 ---
 
-## 📫 How to Reach Me
+# 🏆 Featured Projects
 
-- Email: `krishnashubham09@gmail.com`  
-- LinkedIn: [in/shubham0](https://www.linkedin.com/in/shubham0)  
-- Instagram: [shhubham.__](https://www.instagram.com/shhubham.__)  
-- X (Twitter): [_shubhamkrishna](https://x.com/_shubhamkrishna)  
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Ecomly_Backend** | Full E-commerce backend with auth, cart, orders, payments | Node.js, Express, MongoDB |
+| **Foodly (Full App)** | Food ordering web + mobile app | Flutter, Node.js, MongoDB |
+| **Taskly** *(ongoing)* | Full-stack task manager w/ auth, real-time updates | Next.js, NestJS, Prisma, PostgreSQL |
+| **Authentication Page** | UI + secure auth flow | HTML/CSS/JS or Flutter |
+
+🔗 *See more here:* **https://github.com/ShubhamKrishna0?tab=repositories**
 
 ---
 
-## ⚡ Fun Facts
+# ⚙️ GitHub Insights
 
-- I solve puzzles & problems for fun 🧩  
-- Passionate about UI/UX & polished frontend experiences  
-- Always improving, always learning  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamKrishna0&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamKrishna0&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKrishna0&theme=tokyo-night" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:krishnashubham09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/shubham0"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://www.instagram.com/shhubham.__"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://x.com/_shubhamkrishna"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+</p>
+
+---
+
+# 😄 Fun Facts
+- I love puzzles & mind games 🧩  
+- UI/UX lover — clean & minimal designs  
+- Always building something new  
+- Always improving, always exploring 🚀  
 
 ---
 
 <p align="center">
-  &mdash; **Thanks for visiting my profile!** &mdash;
+  <strong>⭐ Thanks for visiting — Have a great day!</strong>
 </p>
