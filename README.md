@@ -3,14 +3,7 @@
      Paste this entire single block into README.md
      ======================= -->
 <!-- ANIMATED HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=230&section=header&text=Shubham%20Krishna&fontSize=55&fontColor=ffffff" />
-</p>
 
-<!-- CUSTOM INTRO GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
-</p>
 
 <h1 align="center">👋 Hey, I'm <strong>Shubham Krishna</strong></h1>
 <p align="center">Full Stack Developer • Mobile Developer • CSE Student</p>
